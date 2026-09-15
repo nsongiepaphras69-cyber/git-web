@@ -40,14 +40,7 @@ Elle n’utilise pas JavaScript : le bouton ne déclenche aucune action.
 2. Ouvrir le dossier cloné.
 3. Ouvrir `src/index.html` dans un navigateur.
 
-Aucune installation de dépendances n’est nécessaire.
-
-Tant que la branche `feature-app` n’est pas fusionnée dans `main`,
-le code de l’application est disponible sur `feature-app` :
-
-```bash
-git switch feature-app
-```
+Aucune installation de dépendances n’est nécessaire
 
 Avant de changer de branche, enregistrer les modifications en cours.
 
